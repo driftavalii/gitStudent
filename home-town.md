@@ -1,1 +1,5 @@
-My present city is Ottawa, Ontario
+### My present city
+
+_Ottawa, Ontario_
+
+_Formerly, it was Lagos, Nigeria_
